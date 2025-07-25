@@ -9,7 +9,7 @@
 
 - Shows clean repo with all main scripts and no `chroma_db/` errors.
 
-| Home Page / App UI | Summarization Example | Chatbot Example | Chat History Example |
+| Home Page / App UI | Example | Chatbot | Example |
 |--------------------|----------------------|-----------------|---------------------|
 | ![Home UI](Screenshot%202025-07-24%20170516.png) | ![Summarize](Screenshot%202025-07-24%20170915.png) | ![Chatbot](Screenshot%202025-07-24%20170945.png) | ![Chat History](Screenshot%202025-07-24%20171338.png) |
 
