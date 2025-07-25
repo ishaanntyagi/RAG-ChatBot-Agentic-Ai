@@ -94,13 +94,4 @@
 
 ---
 
-## Credits
 
-- Built using open-source libraries by the AI and Python community.
-- LLMs served locally via [Ollama](https://ollama.com/).
-- Inspired by [LangChain](https://python.langchain.com/) RAG and chatbot demos.
-
----
-
-Happy learning and building with Generative AI!  
-**Questions or feedback?** Open an issue or start a discussion.
